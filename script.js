@@ -4,14 +4,14 @@
 // ================================================================
 const EVENT = {
   recipient: "Rekan Pemuda Muhammadiyah Tembok Luwung",
-  number: "1.2/001/1448",
-  date: "2026-09-25", // format YYYY-MM-DD
+  number: "1.2/002/1448",
+  date: "2026-10-09", // format YYYY-MM-DD
   day: "Jum’at Malam Sabtu",
   time: "Pukul 20.00 WIB s/d Selesai",
-  place: "Masjid Al Furqon – Komplek TPQ 'Aisyiyah",
-  speaker: "Ustadz Akhmad Syifa Utama, S.E.",
+  place: "Masjid Rukyatul Hilal",
+  speaker: "Ustadz Isa Herdiansyah",
   theme: "",
-  maps: "https://www.google.com/maps/search/?api=1&query=Masjid+Al+Furqon+Tembok+Luwung"
+  maps: "https://maps.app.goo.gl/dhhzYXQVDMFkyjRU6"
 };
 
 const $ = id => document.getElementById(id);
